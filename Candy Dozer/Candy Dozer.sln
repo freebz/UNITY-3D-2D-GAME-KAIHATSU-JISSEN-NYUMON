@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candy Dozer.CSharp", "Candy Dozer.CSharp.csproj", "{9177A37D-7274-4CB8-8C14-04802FB2FBBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9177A37D-7274-4CB8-8C14-04802FB2FBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9177A37D-7274-4CB8-8C14-04802FB2FBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9177A37D-7274-4CB8-8C14-04802FB2FBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9177A37D-7274-4CB8-8C14-04802FB2FBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
